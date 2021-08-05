@@ -1,4 +1,4 @@
-<!--
+
 1-qadam 
 doim proekt bajarilganda:
 {import React from 'react';
@@ -42,4 +42,3 @@ class ... extends React.Component{
 }
 export default ...;
  
- -->
