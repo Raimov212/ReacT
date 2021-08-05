@@ -11,4 +11,4 @@ class G95 extends React.Component{
     )
   }
 }
-export default G95;
+export default G95

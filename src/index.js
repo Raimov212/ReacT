@@ -4,7 +4,7 @@ import App from './App';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App title=' Academy'/>
+    <App />
     <App title=' Academy'/>
   </React.StrictMode>,
   document.getElementById('root')
