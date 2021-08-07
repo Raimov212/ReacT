@@ -42,3 +42,5 @@ class ... extends React.Component{
 }
 export default ...;
  
+
+ <img src={logo}></img>
