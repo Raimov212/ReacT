@@ -43,4 +43,4 @@ class ... extends React.Component{
 export default ...;
  
 
- <img src={logo}></img>
+ <img src={logo} alt='React-project'></img>
